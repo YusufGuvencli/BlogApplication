@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zXyjULGzq0RDN21RmJAdu4Qc/1yEg8VuebyFWQxrkwdGSN/lTBx8XCACDabkY+M87L8Mby5wY4IivIOv5yB9g==",
+  "dgSpecHash": "dVxVPhIbt6glOZcRw+FqEZklIhNpffl1E0YnBL5a0l7/cvqRGOtFrJFaLt7KPOOrucx51fGCTU6Gg8namUel+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusuf\\source\\repos\\BlogApplication\\ProgrammersBlog.Entities\\ProgrammersBlog.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Yusuf\\Documents\\GitHub\\BlogApplication\\ProgrammersBlog.Entities\\ProgrammersBlog.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",

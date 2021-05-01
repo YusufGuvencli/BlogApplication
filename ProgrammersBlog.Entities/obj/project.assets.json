@@ -552,11 +552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\BlogApplication\\ProgrammersBlog.Entities\\ProgrammersBlog.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Yusuf\\Documents\\GitHub\\BlogApplication\\ProgrammersBlog.Entities\\ProgrammersBlog.Entities.csproj",
       "projectName": "ProgrammersBlog.Entities",
-      "projectPath": "C:\\Users\\Yusuf\\source\\repos\\BlogApplication\\ProgrammersBlog.Entities\\ProgrammersBlog.Entities.csproj",
+      "projectPath": "C:\\Users\\Yusuf\\Documents\\GitHub\\BlogApplication\\ProgrammersBlog.Entities\\ProgrammersBlog.Entities.csproj",
       "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yusuf\\source\\repos\\BlogApplication\\ProgrammersBlog.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Yusuf\\Documents\\GitHub\\BlogApplication\\ProgrammersBlog.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -578,8 +578,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Yusuf\\source\\repos\\BlogApplication\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj": {
-              "projectPath": "C:\\Users\\Yusuf\\source\\repos\\BlogApplication\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj"
+            "C:\\Users\\Yusuf\\Documents\\GitHub\\BlogApplication\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj": {
+              "projectPath": "C:\\Users\\Yusuf\\Documents\\GitHub\\BlogApplication\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj"
             }
           }
         }
