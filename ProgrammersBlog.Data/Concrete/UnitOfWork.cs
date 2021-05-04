@@ -6,7 +6,7 @@ using ProgrammersBlog.Data.Concrete.EntityFramework.Repositories;
 
 namespace ProgrammersBlog.Data.Concrete
 {
-    public class UnitOfWork : IAsyncDisposable
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly ProgrammersBlogContext _context;
         private readonly EfArticleRepository _articleRepository;
@@ -33,6 +33,11 @@ namespace ProgrammersBlog.Data.Concrete
         public async ValueTask DisposeAsync()
         {
             await _context.DisposeAsync();
+        }
+
+        public void Dispose()
+        {
+            throw new NotImplementedException();
         }
     }
 }
