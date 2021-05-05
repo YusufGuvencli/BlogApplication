@@ -34,10 +34,5 @@ namespace ProgrammersBlog.Data.Concrete
         {
             await _context.DisposeAsync();
         }
-
-        public void Dispose()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
